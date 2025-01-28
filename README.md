@@ -23,7 +23,6 @@ MyInternshipProjects-main/
 │   ├── Nessus Scan Results
 ├── Task 2 Data Breach Investigation/
 │   ├── Report.pdf
-│   ├── Forensic Evidence Logs
 ```
 
 ## Tasks
